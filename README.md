@@ -19,6 +19,9 @@ Association rule mining will be used to see relationships in the data, for this 
 Once we believe we’ve found the most important statistics, we’ll use classification to see how well we can classify wins/losses with the metrics that have been selected.
 
 
+DROP MATCHES WITH EQUAL GOALS SINCE SHOOTOUT IS NOT IN DATA
+
+
 ## GRADING QUESTIONS
 
 
